@@ -1,5 +1,5 @@
 
-# So_long - 42 Project
+# so_long - 42 Project
 
 ![so_long](https://img.shields.io/badge/ft_printf-42-success)
 ![Project Grade](https://img.shields.io/badge/Project_Grade-100%2F100-informational)
