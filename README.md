@@ -4,7 +4,7 @@
 ![so_long](https://img.shields.io/badge/ft_printf-42-success)
 ![Project Grade](https://img.shields.io/badge/Project_Grade-100%2F100-informational)
 
-The **So_long** project is part of the curriculum at [42 school](https://www.42adel.org.au), designed to challenge students in building a simple 2D game using the MinilibX graphics library. This project focuses on graphics rendering, game loop implementation, and basic game design.
+The **So_long** project is part of the curriculum at [42 Adelaide](https://www.42adel.org.au), designed to challenge students in building a simple 2D game using the MinilibX graphics library. This project focuses on graphics rendering, game loop implementation, and basic game design.
 
 ## Project Objectives
 
