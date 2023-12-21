@@ -48,6 +48,13 @@ The main objectives of the So_long project are:
 - **D**: Move Right
 - **ESC**: Exit the game
 
+## Example
+
+```bash
+./so_long maps/sample_map.ber
+```
+![Screenshot of Game Example](./img/example.png)
+
 ## Features
 
 - **Graphics Rendering**: Use the MinilibX library to render graphics and create a visual representation of the game.
