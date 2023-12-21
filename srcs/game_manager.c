@@ -6,7 +6,7 @@
 /*   By: fsalimba <fsalimba@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/28 12:57:52 by fsalimba          #+#    #+#             */
-/*   Updated: 2023/11/28 12:57:52 by fsalimba         ###   ########.fr       */
+/*   Updated: 2023/12/21 11:19:54 by fsalimba         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -88,7 +88,7 @@ void	setup_game(char *map, t_game *game)
 	malloc_game_grid(game);
 	load_map(map, game);
 	create_game_copy(game);
-	create_game_window("Panda Day", game);
+	create_game_window("Hungry Sleepy Panda", game);
 	find_character_pos(game);
 	count_exit_and_collectibles(game);
 	check_exit_and_collectibles_count(game);
